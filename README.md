@@ -12,7 +12,7 @@ Wemos LOLIN32
  https://arduino-projekte.info/zisterne-fuellstandsanzeige-2-0-mit-wemos-lolin32-mysql-datenbank/
 **************************************************/
 
-Ziel war es eine Wasserstandsanzeige aufzubauen die über das haus WLAn die Werte nach Möglichkeit Webbasiert aufzubereiten um sie auf dem Smartphone oder meinem Magicirror anzeigen zu können.
+Ziel war es eine Wasserstandsanzeige aufzubauen die über das Haus WLAn die Werte nach Möglichkeit Webbasiert aufzubereiten um sie auf dem Smartphone oder meinem Magicirror anzeigen zu können. Eine Stromversorgung in der Zisterne war kompliziert deshal habe ich nach einer brauchbaren Batteriebetriebenen Variante gesucht.
 
 Inspiriert haben mich dabei die Überlegungen von Tobias
 V1:
